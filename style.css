@@ -36,7 +36,7 @@ body {
   box-sizing: border-box; 
 }
 
-h1, footer {
+h1, footer, .projects {
   color: #ffffff; 
 }
 
@@ -45,3 +45,4 @@ h1, footer {
   color: white; 
   text-decoration: none; 
 }
+
