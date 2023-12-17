@@ -1,0 +1,47 @@
+body {
+  margin: 100px;
+  padding: auto;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #fff0d1; 
+}
+
+
+
+.header .main, .recipe, .footer {
+  padding: 100px;
+  margin: auto; 
+  max-width: 1000px; 
+  background-color: #fff0d1; 
+}
+
+.recipe, .footer {
+  margin-bottom: 100px;
+}
+
+.main {
+  overflow: hidden; 
+}
+
+
+body {
+  background-image: url('img/background-image.jpg'); 
+  background-repeat: no-repeat; 
+  background-size: cover;
+  width: auto; 
+}
+
+
+.header, .main, .recipe, .footer {
+  background-clip: content-box; 
+  box-sizing: border-box; 
+}
+
+h1, footer {
+  color: #ffffff; 
+}
+
+
+.video-link {
+  color: white; 
+  text-decoration: none; 
+}
